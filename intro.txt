@@ -9,3 +9,4 @@ Kỹ năng:
 - Lập trình Python
 - Quản lý Git và CI/CD
 - Phân tích dữ liệu cơ bản
+Kế hoạch học tập
