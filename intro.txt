@@ -1,0 +1,11 @@
+Xin chào, tôi là Phạm Gia Hân, tôi hiện là sinh viên ngành CNTT.
+Tôi đam mê lập trình và giải thuật, tôi luôn khao khát học hỏi công nghệ mới.
+Tôi mong muốn phát triển sự nghiệp về DevOps.
+Sở thích:
+- Đọc sách khoa học viễn tưởng
+- Chạy bộ buổi sáng
+- Thử nghiệm các project cá nhân
+Kỹ năng:
+- Lập trình Python
+- Quản lý Git và CI/CD
+- Phân tích dữ liệu cơ bản
